@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\PUNTO_12.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\PUNTO_12.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\PUNTO_12.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\PUNTO_12.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\PUNTO_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\ref\PUNTO_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\bin\Debug\net5.0\PUNTO_12.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\ref\PUNTO_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\PUNTO_12\obj\Debug\net5.0\PUNTO_12.genruntimeconfig.cache

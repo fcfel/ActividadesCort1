@@ -1,0 +1,56 @@
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.exe
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.deps.json
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.runtimeconfig.json
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.runtimeconfig.dev.json
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\ref\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\bin\Debug\net5.0\datos.pdb
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.csproj.AssemblyReference.cache
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.AssemblyInfoInputs.cache
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.AssemblyInfo.cs
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.csproj.CoreCompileInputs.cache
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\ref\datos.dll
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.pdb
+C:\Users\roper\OneDrive\Escritorio\datos\obj\Debug\net5.0\datos.genruntimeconfig.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\datos.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\datos.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\datos.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\datos.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\datos.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\ref\datos.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\bin\Debug\net5.0\datos.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\ref\datos.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURAS DE DATOS\TRABAJOS Y TALLERES\ACTIVIDAD_3\Problema _11\obj\Debug\net5.0\datos.genruntimeconfig.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\ref\datos.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_3\Punto _11\obj\Debug\net5.0\datos.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.AssemblyInfo.cs
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\ref\datos.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\datos.exe
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\datos.deps.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\datos.runtimeconfig.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\datos.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\datos.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\ref\datos.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\bin\Debug\net5.0\datos.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_3\PUNTO _11\obj\Debug\net5.0\datos.genruntimeconfig.cache
