@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NATHALIA\\Desktop\\Tarea 2 para Github\\ejercicio 8\\ejercicio 8.csproj": {}
+    "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_2\\ejercicio8\\ejercicio 8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NATHALIA\\Desktop\\Tarea 2 para Github\\ejercicio 8\\ejercicio 8.csproj": {
+    "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_2\\ejercicio8\\ejercicio 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NATHALIA\\Desktop\\Tarea 2 para Github\\ejercicio 8\\ejercicio 8.csproj",
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_2\\ejercicio8\\ejercicio 8.csproj",
         "projectName": "ejercicio 8",
-        "projectPath": "C:\\Users\\NATHALIA\\Desktop\\Tarea 2 para Github\\ejercicio 8\\ejercicio 8.csproj",
-        "packagesPath": "C:\\Users\\NATHALIA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NATHALIA\\Desktop\\Tarea 2 para Github\\ejercicio 8\\obj\\",
+        "projectPath": "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_2\\ejercicio8\\ejercicio 8.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_2\\ejercicio8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NATHALIA\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +36,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ejerrcicio10.exe
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ejerrcicio10.deps.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ejerrcicio10.runtimeconfig.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ejerrcicio10.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ejerrcicio10.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ref\ejerrcicio10.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\bin\Debug\net5.0\ejerrcicio10.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.AssemblyInfo.cs
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ref\ejerrcicio10.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejerrcicio10\obj\Debug\net5.0\ejerrcicio10.genruntimeconfig.cache

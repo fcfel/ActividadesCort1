@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ejrcicio12.exe
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ejrcicio12.deps.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ejrcicio12.runtimeconfig.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ejrcicio12.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ejrcicio12.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ref\ejrcicio12.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\bin\Debug\net5.0\ejrcicio12.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.AssemblyInfo.cs
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ref\ejrcicio12.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\ejrcicio12\obj\Debug\net5.0\ejrcicio12.genruntimeconfig.cache
