@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeison\\OneDrive - Ucompensar\\Documentos\\SEGUNDO SEMESRE - ING\\Estructura_Datos_Actividades\\Corte_1\\ACTIVIDAD_4\\PUNTO_8\\PUNTO_8.csproj": {}
+    "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_4\\ejercicio8\\PUNTO_8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeison\\OneDrive - Ucompensar\\Documentos\\SEGUNDO SEMESRE - ING\\Estructura_Datos_Actividades\\Corte_1\\ACTIVIDAD_4\\PUNTO_8\\PUNTO_8.csproj": {
+    "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_4\\ejercicio8\\PUNTO_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeison\\OneDrive - Ucompensar\\Documentos\\SEGUNDO SEMESRE - ING\\Estructura_Datos_Actividades\\Corte_1\\ACTIVIDAD_4\\PUNTO_8\\PUNTO_8.csproj",
+        "projectUniqueName": "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_4\\ejercicio8\\PUNTO_8.csproj",
         "projectName": "PUNTO_8",
-        "projectPath": "C:\\Users\\Jeison\\OneDrive - Ucompensar\\Documentos\\SEGUNDO SEMESRE - ING\\Estructura_Datos_Actividades\\Corte_1\\ACTIVIDAD_4\\PUNTO_8\\PUNTO_8.csproj",
-        "packagesPath": "C:\\Users\\Jeison\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeison\\OneDrive - Ucompensar\\Documentos\\SEGUNDO SEMESRE - ING\\Estructura_Datos_Actividades\\Corte_1\\ACTIVIDAD_4\\PUNTO_8\\obj\\",
+        "projectPath": "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_4\\ejercicio8\\PUNTO_8.csproj",
+        "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\natal\\Desktop\\Actividades corte 1\\corte1\\Actividad_4\\ejercicio8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jeison\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
