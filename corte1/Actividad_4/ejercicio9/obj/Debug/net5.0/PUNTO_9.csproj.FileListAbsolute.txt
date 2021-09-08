@@ -1,0 +1,32 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\ref\PUNTO_9.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.csprojAssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\ref\PUNTO_9.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Documentos\SEGUNDO SEMESRE - ING\ESTRUCTURA-DE-DATOS_ACTIVIDADES_\Corte_1\Actividad_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.genruntimeconfig.cache
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.exe
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.deps.json
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.runtimeconfig.json
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.runtimeconfig.dev.json
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.dll
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\ref\PUNTO_9.dll
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\bin\Debug\net5.0\PUNTO_9.pdb
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.AssemblyInfo.cs
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.dll
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\ref\PUNTO_9.dll
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.pdb
+C:\Users\natal\Desktop\repositorio de J\Estructura_Datos_Actividades\Corte_1\ACTIVIDAD_4\PUNTO_9\obj\Debug\net5.0\PUNTO_9.genruntimeconfig.cache
