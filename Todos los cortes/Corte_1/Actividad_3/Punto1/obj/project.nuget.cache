@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtOf/ARm5KJ6s7hIZ7yEZf2SJb84aT4UkxIDrUaDHWFdeb74lQEVn4OIpjMSBOeaI0TJoZur0swm1BAsw/Uqhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natal\\Desktop\\Actividad 3.3\\Punto1\\Punto1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\natal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

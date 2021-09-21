@@ -1,0 +1,13 @@
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\bin\Debug\netcoreapp3.1\ejercicio 7.exe
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\bin\Debug\netcoreapp3.1\ejercicio 7.deps.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\bin\Debug\netcoreapp3.1\ejercicio 7.runtimeconfig.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\bin\Debug\netcoreapp3.1\ejercicio 7.runtimeconfig.dev.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\bin\Debug\netcoreapp3.1\ejercicio 7.dll
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\bin\Debug\netcoreapp3.1\ejercicio 7.pdb
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.csprojAssemblyReference.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.AssemblyInfoInputs.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.AssemblyInfo.cs
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.dll
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.pdb
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 7\obj\Debug\netcoreapp3.1\ejercicio 7.genruntimeconfig.cache

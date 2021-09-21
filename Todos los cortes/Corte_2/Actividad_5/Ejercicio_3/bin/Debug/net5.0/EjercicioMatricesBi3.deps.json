@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EjercicioMatricesBi3/1.0.0": {
+        "runtime": {
+          "EjercicioMatricesBi3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EjercicioMatricesBi3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

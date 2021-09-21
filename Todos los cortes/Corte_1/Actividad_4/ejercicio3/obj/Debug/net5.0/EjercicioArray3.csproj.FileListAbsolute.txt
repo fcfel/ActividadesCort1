@@ -1,0 +1,32 @@
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.exe
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.deps.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.runtimeconfig.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.runtimeconfig.dev.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\ref\EjercicioArray3.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.AssemblyInfo.cs
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\ref\EjercicioArray3.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.genruntimeconfig.cache
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.exe
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.deps.json
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.runtimeconfig.json
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.runtimeconfig.dev.json
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.dll
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\ref\EjercicioArray3.dll
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\bin\Debug\net5.0\EjercicioArray3.pdb
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.AssemblyInfo.cs
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.dll
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\ref\EjercicioArray3.dll
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.pdb
+C:\Users\natal\Desktop\ejercicios w\Actividad-4\EjercicioArray3\obj\Debug\net5.0\EjercicioArray3.genruntimeconfig.cache

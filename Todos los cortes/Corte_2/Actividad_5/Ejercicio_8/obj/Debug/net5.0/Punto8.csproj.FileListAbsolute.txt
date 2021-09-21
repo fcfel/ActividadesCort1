@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\Punto8.exe
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\Punto8.deps.json
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\Punto8.runtimeconfig.json
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\Punto8.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\Punto8.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\ref\Punto8.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\bin\Debug\net5.0\Punto8.pdb
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.AssemblyInfo.cs
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\ref\Punto8.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.pdb
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Punto8\obj\Debug\net5.0\Punto8.genruntimeconfig.cache

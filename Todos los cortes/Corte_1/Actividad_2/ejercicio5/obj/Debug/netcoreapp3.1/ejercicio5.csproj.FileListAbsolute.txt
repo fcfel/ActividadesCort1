@@ -1,0 +1,13 @@
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\bin\Debug\netcoreapp3.1\ejercicio5.exe
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\bin\Debug\netcoreapp3.1\ejercicio5.deps.json
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\bin\Debug\netcoreapp3.1\ejercicio5.runtimeconfig.json
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\bin\Debug\netcoreapp3.1\ejercicio5.runtimeconfig.dev.json
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\bin\Debug\netcoreapp3.1\ejercicio5.dll
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\bin\Debug\netcoreapp3.1\ejercicio5.pdb
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.csprojAssemblyReference.cache
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.AssemblyInfoInputs.cache
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.AssemblyInfo.cs
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.dll
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.pdb
+C:\Users\NATHALIA\Desktop\Actividad git 3\ejercicio5\obj\Debug\netcoreapp3.1\ejercicio5.genruntimeconfig.cache

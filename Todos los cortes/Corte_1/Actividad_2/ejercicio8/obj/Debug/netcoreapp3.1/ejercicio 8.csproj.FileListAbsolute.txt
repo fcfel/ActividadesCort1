@@ -1,0 +1,20 @@
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.exe
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.deps.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.runtimeconfig.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.runtimeconfig.dev.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.dll
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\bin\Debug\netcoreapp3.1\ejercicio 8.pdb
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.csprojAssemblyReference.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.AssemblyInfoInputs.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.AssemblyInfo.cs
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.dll
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.pdb
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio 8\obj\Debug\netcoreapp3.1\ejercicio 8.genruntimeconfig.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.AssemblyInfo.cs
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio8\obj\Debug\netcoreapp3.1\ejercicio 8.pdb

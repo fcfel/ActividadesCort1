@@ -1,0 +1,13 @@
+C:\Users\natal\Desktop\tarea3\Punto5\bin\Debug\netcoreapp3.1\Punto5.exe
+C:\Users\natal\Desktop\tarea3\Punto5\bin\Debug\netcoreapp3.1\Punto5.deps.json
+C:\Users\natal\Desktop\tarea3\Punto5\bin\Debug\netcoreapp3.1\Punto5.runtimeconfig.json
+C:\Users\natal\Desktop\tarea3\Punto5\bin\Debug\netcoreapp3.1\Punto5.runtimeconfig.dev.json
+C:\Users\natal\Desktop\tarea3\Punto5\bin\Debug\netcoreapp3.1\Punto5.dll
+C:\Users\natal\Desktop\tarea3\Punto5\bin\Debug\netcoreapp3.1\Punto5.pdb
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.csprojAssemblyReference.cache
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.AssemblyInfo.cs
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.dll
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.pdb
+C:\Users\natal\Desktop\tarea3\Punto5\obj\Debug\netcoreapp3.1\Punto5.genruntimeconfig.cache

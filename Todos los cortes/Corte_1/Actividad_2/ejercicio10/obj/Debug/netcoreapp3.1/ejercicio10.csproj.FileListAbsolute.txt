@@ -1,0 +1,27 @@
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.exe
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.deps.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.runtimeconfig.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.runtimeconfig.dev.json
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.dll
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.pdb
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.csprojAssemblyReference.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.AssemblyInfoInputs.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.AssemblyInfo.cs
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.dll
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.pdb
+C:\Users\NATHALIA\Desktop\Tarea 2 para Github\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.genruntimeconfig.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.exe
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.deps.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.runtimeconfig.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\bin\Debug\netcoreapp3.1\ejercicio10.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.AssemblyInfo.cs
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_2\ejercicio10\obj\Debug\netcoreapp3.1\ejercicio10.genruntimeconfig.cache

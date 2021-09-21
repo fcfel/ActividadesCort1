@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\Ejecicio11.exe
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\Ejecicio11.deps.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\Ejecicio11.runtimeconfig.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\Ejecicio11.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\Ejecicio11.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\ref\Ejecicio11.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\bin\Debug\net5.0\Ejecicio11.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.AssemblyInfo.cs
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\ref\Ejecicio11.dll
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.pdb
+C:\Users\natal\Desktop\Actividades corte 1\corte1\Actividad_4\Ejecicio11\obj\Debug\net5.0\Ejecicio11.genruntimeconfig.cache

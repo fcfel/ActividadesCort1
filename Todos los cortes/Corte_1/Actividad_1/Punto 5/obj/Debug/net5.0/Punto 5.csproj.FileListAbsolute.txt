@@ -1,0 +1,16 @@
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\Punto 5.exe
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\Punto 5.deps.json
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\Punto 5.runtimeconfig.json
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\Punto 5.runtimeconfig.dev.json
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\Punto 5.dll
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\ref\Punto 5.dll
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\bin\Debug\net5.0\Punto 5.pdb
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.csproj.AssemblyReference.cache
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.AssemblyInfoInputs.cache
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.AssemblyInfo.cs
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.csproj.CoreCompileInputs.cache
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.dll
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\ref\Punto 5.dll
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.pdb
+C:\Users\NATHALIA\Desktop\trabajos actividad 1\Punto 5\obj\Debug\net5.0\Punto 5.genruntimeconfig.cache
