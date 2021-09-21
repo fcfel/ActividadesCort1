@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\natal\\.nuget\\packages\\": {}
+    "C:\\Users\\fcfel\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natal\\Desktop\\ejercicios de w\\Estructura-de-datos\\corte_1\\Actividad_5\\Ejercicio_1\\EjercicioMatricesBi1.csproj",
+      "projectUniqueName": "C:\\Users\\fcfel\\OneDrive\\Escritorio\\Repositorio\\ActividadesESTDT\\Todos los cortes\\Corte_2\\Actividad_5\\Ejercicio_1\\EjercicioMatricesBi1.csproj",
       "projectName": "EjercicioMatricesBi1",
-      "projectPath": "C:\\Users\\natal\\Desktop\\ejercicios de w\\Estructura-de-datos\\corte_1\\Actividad_5\\Ejercicio_1\\EjercicioMatricesBi1.csproj",
-      "packagesPath": "C:\\Users\\natal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natal\\Desktop\\ejercicios de w\\Estructura-de-datos\\corte_1\\Actividad_5\\Ejercicio_1\\obj\\",
+      "projectPath": "C:\\Users\\fcfel\\OneDrive\\Escritorio\\Repositorio\\ActividadesESTDT\\Todos los cortes\\Corte_2\\Actividad_5\\Ejercicio_1\\EjercicioMatricesBi1.csproj",
+      "packagesPath": "C:\\Users\\fcfel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fcfel\\OneDrive\\Escritorio\\Repositorio\\ActividadesESTDT\\Todos los cortes\\Corte_2\\Actividad_5\\Ejercicio_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\natal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fcfel\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
