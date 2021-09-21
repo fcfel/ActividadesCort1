@@ -1,0 +1,16 @@
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.exe
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.deps.json
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.runtimeconfig.json
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.runtimeconfig.dev.json
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\ref\Ejercicio_10.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\bin\Debug\net5.0\Ejercicio_10.pdb
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.AssemblyInfo.cs
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\ref\Ejercicio_10.dll
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.pdb
+C:\Users\natal\Desktop\Corte 2\Actividad 5\Ejercicio_10\obj\Debug\net5.0\Ejercicio_10.genruntimeconfig.cache

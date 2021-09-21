@@ -1,0 +1,32 @@
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\EjercicioMatricesBi1.exe
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\EjercicioMatricesBi1.deps.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\EjercicioMatricesBi1.runtimeconfig.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\EjercicioMatricesBi1.runtimeconfig.dev.json
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\EjercicioMatricesBi1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\ref\EjercicioMatricesBi1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\bin\Debug\net5.0\EjercicioMatricesBi1.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.AssemblyInfo.cs
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\ref\EjercicioMatricesBi1.dll
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.pdb
+C:\Users\diego\Desktop\ProblemasC#\EjercicioMatricesBi1\obj\Debug\net5.0\EjercicioMatricesBi1.genruntimeconfig.cache
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\EjercicioMatricesBi1.exe
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\EjercicioMatricesBi1.deps.json
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\EjercicioMatricesBi1.runtimeconfig.json
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\EjercicioMatricesBi1.runtimeconfig.dev.json
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\EjercicioMatricesBi1.dll
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\ref\EjercicioMatricesBi1.dll
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\bin\Debug\net5.0\EjercicioMatricesBi1.pdb
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.csproj.AssemblyReference.cache
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.AssemblyInfo.cs
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.dll
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\ref\EjercicioMatricesBi1.dll
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.pdb
+C:\Users\natal\Desktop\ejercicios de w\Estructura-de-datos\corte_1\Actividad_5\Ejercicio_1\obj\Debug\net5.0\EjercicioMatricesBi1.genruntimeconfig.cache
