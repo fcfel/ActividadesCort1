@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\Ejercicio_12.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\Ejercicio_12.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\Ejercicio_12.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\Ejercicio_12.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\Ejercicio_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\ref\Ejercicio_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\bin\Debug\net5.0\Ejercicio_12.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.csproj.AssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\ref\Ejercicio_12.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_7\Ejercicio_12\obj\Debug\net5.0\Ejercicio_12.genruntimeconfig.cache
