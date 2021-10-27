@@ -1,0 +1,16 @@
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\24_ApepenFormat.exe
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\24_ApepenFormat.deps.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\24_ApepenFormat.runtimeconfig.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\24_ApepenFormat.runtimeconfig.dev.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\24_ApepenFormat.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\ref\24_ApepenFormat.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\bin\Debug\net5.0\24_ApepenFormat.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.csproj.AssemblyReference.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.AssemblyInfoInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.AssemblyInfo.cs
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.csproj.CoreCompileInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\ref\24_ApepenFormat.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\24_ApepenFormat\obj\Debug\net5.0\24_ApepenFormat.genruntimeconfig.cache
