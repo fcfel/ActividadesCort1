@@ -1,0 +1,16 @@
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ToString.exe
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ToString.deps.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ToString.runtimeconfig.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ToString.runtimeconfig.dev.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ToString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ref\ToString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\bin\Debug\net5.0\ToString.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.csproj.AssemblyReference.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.AssemblyInfoInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.AssemblyInfo.cs
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.csproj.CoreCompileInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ref\ToString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ToString\obj\Debug\net5.0\ToString.genruntimeconfig.cache

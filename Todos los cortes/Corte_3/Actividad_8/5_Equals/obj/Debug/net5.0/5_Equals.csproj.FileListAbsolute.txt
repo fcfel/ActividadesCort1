@@ -1,0 +1,16 @@
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\5_Equals.exe
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\5_Equals.deps.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\5_Equals.runtimeconfig.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\5_Equals.runtimeconfig.dev.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\5_Equals.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\ref\5_Equals.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\bin\Debug\net5.0\5_Equals.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.csproj.AssemblyReference.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.AssemblyInfoInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.AssemblyInfo.cs
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.csproj.CoreCompileInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\ref\5_Equals.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\5_Equals\obj\Debug\net5.0\5_Equals.genruntimeconfig.cache

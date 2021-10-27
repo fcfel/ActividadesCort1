@@ -1,0 +1,16 @@
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\6_Contains.exe
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\6_Contains.deps.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\6_Contains.runtimeconfig.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\6_Contains.runtimeconfig.dev.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\6_Contains.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\ref\6_Contains.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\bin\Debug\net5.0\6_Contains.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.csproj.AssemblyReference.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.AssemblyInfoInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.AssemblyInfo.cs
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.csproj.CoreCompileInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\ref\6_Contains.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\6_Contains\obj\Debug\net5.0\6_Contains.genruntimeconfig.cache
