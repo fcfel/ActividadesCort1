@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\Clase String-Método LastIndexOf.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\Clase String-Método LastIndexOf.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\Clase String-Método LastIndexOf.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\Clase String-Método LastIndexOf.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\Clase String-Método LastIndexOf.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\ref\Clase String-Método LastIndexOf.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\bin\Debug\net5.0\Clase String-Método LastIndexOf.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.csproj.AssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\ref\Clase String-Método LastIndexOf.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método LastIndexOf\obj\Debug\net5.0\Clase String-Método LastIndexOf.genruntimeconfig.cache

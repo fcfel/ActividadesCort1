@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\Clase String-Método Trim.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\Clase String-Método Trim.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\Clase String-Método Trim.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\Clase String-Método Trim.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\Clase String-Método Trim.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\ref\Clase String-Método Trim.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\bin\Debug\net5.0\Clase String-Método Trim.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.csproj.AssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\ref\Clase String-Método Trim.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método Trim\obj\Debug\net5.0\Clase String-Método Trim.genruntimeconfig.cache

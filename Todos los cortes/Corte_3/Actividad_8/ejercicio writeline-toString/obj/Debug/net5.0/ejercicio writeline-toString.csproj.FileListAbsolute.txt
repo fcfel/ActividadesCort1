@@ -1,0 +1,16 @@
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ejercicio writeline-toString.exe
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ejercicio writeline-toString.deps.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ejercicio writeline-toString.runtimeconfig.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ejercicio writeline-toString.runtimeconfig.dev.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ejercicio writeline-toString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ref\ejercicio writeline-toString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\bin\Debug\net5.0\ejercicio writeline-toString.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.csproj.AssemblyReference.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.AssemblyInfoInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.AssemblyInfo.cs
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.csproj.CoreCompileInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ref\ejercicio writeline-toString.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_8\ejercicio writeline-toString\obj\Debug\net5.0\ejercicio writeline-toString.genruntimeconfig.cache

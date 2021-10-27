@@ -105,7 +105,48 @@ namespace Actividad_8_Problema_1
 
                         Console.WriteLine($"Se paso a MAYUSCULAS quedo asi {CadenaOri}");
                         break;
+
+                    case 19:
+                        string[] CADE = new string[0];
+                        int num1;
+                        Console.WriteLine("Hacer una lista de strings");
+                        Console.WriteLine("─────────────────────");
+                        Console.WriteLine("Ingresa el espacio de la cadena: ");
+                        num1 = int.Parse(Console.ReadLine());
+                        Console.WriteLine("--Ahora ingresa elementos a la cadena--");
+                        CADE = new string[num1];
+                        Console.WriteLine();
+                        for (int a = 0; a < CADE.Length; a++)
+                        {
+                            Console.WriteLine($"Elemento {a + 1} de la cadena");
+                            CADE[a] = Console.ReadLine();
+                        }
+                        Console.WriteLine();
+                        Console.WriteLine($"La lista de cadena es:");
+                        foreach (string a in CADE)
+                        {
+                            Console.Write("," + a);
+                        }
+                        Console.WriteLine("\n");
+                        break;
+
+                    case 20:
+
+                        string cadena1, cadena2;
+                        Console.WriteLine("Convertir un int a un string y concatenarlo con otro string");
+                        Console.WriteLine("─────────────────────");
+                        Console.WriteLine("Escriba su nombre");
+                        cadena1 = Console.ReadLine();
+                        Console.WriteLine("Escriba su edad");
+                        num1 = int.Parse(Console.ReadLine());
+                        cadena2 = num1.ToString();
+                        Console.WriteLine("─────────────────────");
+                        Console.WriteLine($"Su nombre es {cadena1} y su edad es {cadena2}");
+                        Console.WriteLine($"El formato de su nombre es {cadena1.GetType()} y el de su edad es {cadena2.GetType()}");
+                        break;
+
                 }
+
 
 
                 Console.WriteLine("GRACIAS");

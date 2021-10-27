@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\Clase String- Método Substring.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\Clase String- Método Substring.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\Clase String- Método Substring.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\Clase String- Método Substring.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\Clase String- Método Substring.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\ref\Clase String- Método Substring.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\bin\Debug\net5.0\Clase String- Método Substring.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.csproj.AssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\ref\Clase String- Método Substring.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String- Método Substring\obj\Debug\net5.0\Clase String- Método Substring.genruntimeconfig.cache

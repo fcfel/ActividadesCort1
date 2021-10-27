@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\Clase String-Método TrimEnd.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\Clase String-Método TrimEnd.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\Clase String-Método TrimEnd.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\Clase String-Método TrimEnd.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\Clase String-Método TrimEnd.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\ref\Clase String-Método TrimEnd.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\bin\Debug\net5.0\Clase String-Método TrimEnd.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.csproj.AssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\ref\Clase String-Método TrimEnd.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método TrimEnd\obj\Debug\net5.0\Clase String-Método TrimEnd.genruntimeconfig.cache

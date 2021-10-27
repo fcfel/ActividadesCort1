@@ -1,0 +1,16 @@
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\Clase String-Método PadLeft.exe
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\Clase String-Método PadLeft.deps.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\Clase String-Método PadLeft.runtimeconfig.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\Clase String-Método PadLeft.runtimeconfig.dev.json
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\Clase String-Método PadLeft.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\ref\Clase String-Método PadLeft.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\bin\Debug\net5.0\Clase String-Método PadLeft.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.csproj.AssemblyReference.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.AssemblyInfoInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.AssemblyInfo.cs
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.csproj.CoreCompileInputs.cache
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\ref\Clase String-Método PadLeft.dll
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.pdb
+C:\Users\Jeison\OneDrive - Ucompensar\Escritorio\Estructura_DAT_ACTIVIDADES\CORTE_3\ACTIVIDAD_8\Clase String-Método PadLeft\obj\Debug\net5.0\Clase String-Método PadLeft.genruntimeconfig.cache
