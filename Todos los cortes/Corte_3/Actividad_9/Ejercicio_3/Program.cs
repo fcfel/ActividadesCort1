@@ -1,73 +1,80 @@
 ﻿using System;
 
-
-namespace Ejercicio_3
+namespace Actividad_9
 {
     class Socio
     {
         private string nombre;
         private int antiguedad;
-
-        public Socio()
+        public Socio(string nombre, int antiguedad)
         {
-            Console.Write("Ingrese el nombre del socio:");
-            nombre = Console.ReadLine(); ;
-            Console.Write("Ingrese la antiguedad:");
-            string linea = Console.ReadLine();
-            antiguedad = int.Parse(linea);
+            this.nombre = nombre;
+            this.antiguedad = antiguedad;
+        }
+        /*public Socio(string nom, int ant)
+        {
+           nombre=nom; 
+           antiguedad=ant;
+        }*/
+        public void setNombre(string nombre)
+        {
+            this.nombre = nombre;
+
+        }
+        public void setAntiguedad(int antiguedad)
+        {
+            this.antiguedad = antiguedad;
+
         }
 
-        public void Imprimir()
+        public string getNombre()
         {
-            Console.WriteLine(nombre + " tiene una antiguedad de " + antiguedad);
+            return this.nombre;
+        }
+        public int getAntiguedad()
+        {
+            return this.antiguedad;
         }
 
-        public int antiguo()
-        {
-            return antiguedad;
-        }
     }
-
-
     class Club
     {
-        private Socio socio1, socio2, socio3;
+        Socio socio1 = new Socio("Carlos", 24);
+        Socio socio2 = new Socio("Andres", 2);
+        Socio socio3 = new Socio("Juan", 18);
 
-        public Club()
+        public Socio mostrarMasAntiguo()
         {
-            socio1 = new Socio();
-            socio2 = new Socio();
-            socio3 = new Socio();
-        }
-
-        public void MayorAntiguedad()
-        {
-            Console.Write("Socio con mayor antiguedad:");
-            if (socio1.antiguo() > socio2.antiguo() &&
-                socio1.antiguo() > socio3.antiguo())
+            if (socio1.getAntiguedad() > socio2.getAntiguedad())
             {
-                socio1.Imprimir();
+                if (socio1.getAntiguedad() > socio3.getAntiguedad())
+                {
+                    return socio1;
+
+                }
             }
-            
             else
             {
-                if (socio2.antiguo() > socio3.antiguo())
+                if (socio2.getAntiguedad() > socio3.getAntiguedad())
                 {
-                    socio2.Imprimir();
+                    return socio2;
                 }
-                else
-                {
-                    socio3.Imprimir();
-                }
-            }
 
+            }
+            return socio3;
         }
+
+    }
+    class Program
+    {
 
         static void Main(string[] args)
         {
             Club club1 = new Club();
-            club1.MayorAntiguedad();
-            Console.ReadKey();
+            Socio socio1 = club1.mostrarMasAntiguo();
+            Console.WriteLine("El socio mas antiguo es: "+socio1.getNombre()+" con "+socio1.getAntiguedad()+" años de antiguedad");
+
+
         }
     }
 }
