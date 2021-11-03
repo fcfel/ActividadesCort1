@@ -1,0 +1,16 @@
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.exe
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.deps.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.runtimeconfig.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.runtimeconfig.dev.json
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\ref\Ejercicio_1.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\bin\Debug\net5.0\Ejercicio_1.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.csproj.AssemblyReference.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.AssemblyInfoInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.AssemblyInfo.cs
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\ref\Ejercicio_1.dll
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.pdb
+C:\Users\fcfel\OneDrive\Escritorio\Repositorio\ActividadesESTDT\Todos los cortes\Corte_3\Actividad_9\Ejercicio_1\obj\Debug\net5.0\Ejercicio_1.genruntimeconfig.cache
